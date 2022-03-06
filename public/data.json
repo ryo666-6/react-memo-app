@@ -1,0 +1,8 @@
+{
+    "message": "This is react lesson!",
+    "data": [
+        {"name": "Ryo", "mail": "ryo666@gmail", "age": 23},
+        {"name": "Ken", "mail": "Ken3412@gmail", "age": 33},
+        {"name": "Eri", "mail": "eri948@gmail", "age": 20}
+    ]
+}
